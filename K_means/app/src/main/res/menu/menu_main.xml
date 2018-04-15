@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_10points"
+          android:title="10个点"
+        />
+    <item android:id="@+id/action_50points"
+          android:title="50个点"
+        />
+    <item android:id="@+id/action_200points"
+          android:title="200个点"
+        />
+    <item android:id="@+id/action_500points"
+          android:title="500个点"
+        />
+</menu>
